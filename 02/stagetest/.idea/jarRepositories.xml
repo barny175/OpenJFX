@@ -2,6 +2,11 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="avast-artifactory-snapshots" />
       <option name="name" value="Avast artifactory snapshots" />
       <option name="url" value="https://artifactory.int.avast.com/artifactory/maven-snapshot" />
@@ -10,11 +15,6 @@
       <option name="id" value="avast-artifactory" />
       <option name="name" value="Avast artifactory releases" />
       <option name="url" value="https://artifactory.int.avast.com/artifactory/maven" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="central" />
-      <option name="name" value="Central Repository" />
-      <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
