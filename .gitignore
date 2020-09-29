@@ -2,3 +2,6 @@
 /02/stagetest/.idea/sonarlint/
 xx/preloadertest/target
 xx/preloadertest/.idea/sonarlint
+layouts/.idea/sonarlint
+layouts/target
+Tranformations/.idea/sonarlint
